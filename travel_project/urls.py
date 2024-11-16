@@ -22,4 +22,3 @@ urlpatterns = [
     path('api/', include('travel_app.urls')),
 ]
 
-
